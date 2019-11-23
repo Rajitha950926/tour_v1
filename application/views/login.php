@@ -7,7 +7,7 @@
           <div class="col-md-10 text-center" data-aos="fade">
             <h1 class="heading mb-3">Login Here</h1>
             <ul class="custom-breadcrumbs mb-4">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="<?php base_url('index.php')?>">Home</a></li>
               <li>&bullet;</li>
               <li>Reservation</li>
             </ul>
@@ -50,7 +50,7 @@
               </div>
               <div class="row">
                 <div class="col-md-12 form-group">
-                  <p> <a href="<?php echo base_url()?>registeration.php"> Not have Account? Create An account Here</a></p>
+                  <p> <a href="<?php echo base_url('index.php/Home/Register')?>"> Not have Account? Create An account Here</a></p>
                 </div>
               </div>
             </form>

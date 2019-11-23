@@ -7,9 +7,9 @@
           <div class="col-md-10 text-center" data-aos="fade">
             <h1 class="heading mb-3">More Information</h1>
             <ul class="custom-breadcrumbs mb-4">
-              <li><a href="<?php echo base_url();?>home.php">Home</a></li>
+              <li><a href="<?php echo base_url('index.php');?>home.php">Home</a></li>
               <li>&bullet;</li>
-              <li>Rooms</li>
+              <li>Place Details</li>
             </ul>
           </div>
         </div>
@@ -99,7 +99,7 @@
             <span class="d-block mb-4"><span class="display-4 text-primary">Visit</span> <span class="text-uppercase letter-spacing-2">& Enjoy</span> </span>
             <h2 class="mb-4">Photos</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-            <p><a href="<?php echo base_url('index.php/Home/Reservation');?>" class="btn btn-primary text-white">Book now</a></p>
+            <p><a href="<?php echo base_url('index.php/Home/Cart');?>" class="btn btn-primary text-white">Add to Cart</a></p>
           </div>
         </div>
         <div class="site-block-half d-block d-lg-flex bg-white" data-aos="fade" data-aos-delay="200">
@@ -124,17 +124,17 @@
         </div>
         <div class="row">
           <div class="js-carousel-2 owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
-            
+            <?php foreach ($respond2 as $row):?>
             <div class="testimonial text-center slider-item">
               <div class="author-image mb-3">
                 <img src="images/person_1.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
               </div>
               <blockquote>
-                <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
+                <p><?php echo $row->decription?></p>
               </blockquote>
-              <p><em>&mdash; Rajitha</em></p>
+              <p><em>&mdash; <?php echo $row->customer_name?></em></p>
             </div> 
-
+           <?php endforeach;?>
           </div>
             <!-- END slider -->
         </div>

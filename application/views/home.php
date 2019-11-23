@@ -1,6 +1,4 @@
-
-    
-  <?php include('include/header.php') ?>
+<?php include('include/header.php') ?>
 
     <section class="site-hero overlay" style="background-image: url(images/kandy.jpg)" data-stellar-background-ratio="0.5">
       <div class="container">
@@ -105,35 +103,29 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$20.00</span>
-                    <h3 class="text-white"><a href="rooms.html" class="text-white">Kithulgala</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Kithulgala</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$35.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Bomburu Alla</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Bomburu Alla</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$15.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Mee Muree</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Mee Muree</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$10.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Riverston</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Riverston</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$8.35</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Place One</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Place One</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$22.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Place two</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Place two</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div><!--col-md-6-->
@@ -149,35 +141,29 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$11.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Mirissa</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Mirissa</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$72.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Unawatuna</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Unawatuna</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$26.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Hikkaduwa</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Hikkaduwa</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$42.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Arugambay</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Arugambay</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$7.35</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Nilaweli</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Nilaweli</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$22.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Paasikuda</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Paasikuda</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div>
@@ -193,25 +179,21 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$32.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Yahangala</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Yahangala</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$14.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Narangala</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Narangala</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$93.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Nakals</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Nakals</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$18.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Alla rock</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Alla rock</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 
@@ -228,35 +210,29 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$11.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Katharagama</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Katharagama</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$72.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Mahiyanganaya</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Mahiyanganaya</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$26.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Saman dewalaya</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Saman dewalaya</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$42.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Temple tooth</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Temple tooth</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$7.35</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Kaluthara bodhiya</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Kaluthara bodhiya</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="food-menu mb-5">
-                    <span class="d-block text-primary h4 mb-3">$22.00</span>
-                    <h3 class="text-white"><a href="#" class="text-white">Anuradhapura</a></h3>
+                    <span class="d-block text-primary h4 mb-3">Anuradhapura</span>
                     <p class="text-white text-opacity-7">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                 </div>

@@ -6,9 +6,9 @@
           <div class="col-md-10 text-center" data-aos="fade">
             <h1 class="heading mb-3">Best Place to Visit</h1>
             <ul class="custom-breadcrumbs mb-4">
-              <li><a href="<?php echo base_url();?>">Home</a></li>
+              <li><a href="<?php echo base_url('index.php');?>">Home</a></li>
               <li>&bullet;</li>
-              <li>Rooms</li>
+              <li>Location</li>
             </ul>
           </div>
         </div>

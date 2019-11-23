@@ -6,9 +6,9 @@
             <div class="col-md-10 text-center" data-aos="fade">
                 <h1 class="heading mb-3">Best Ancient Place to Visit</h1>
                 <ul class="custom-breadcrumbs mb-4">
-                    <li><a href="<?php echo base_url();?>">Home</a></li>
+                    <li><a href="<?php echo base_url('index.php');?>">Home</a></li>
                     <li>&bullet;</li>
-                    <li>Rooms</li>
+                    <li>Ancient</li>
                 </ul>
             </div>
         </div>
@@ -40,19 +40,7 @@
             <?php endforeach;?>
         </div><!--row-->
 
-        <div class="row" data-aos="fade">
-            <div class="col-12">
-                <div class="custom-pagination">
-                    <ul class="list-unstyled">
-                        <li class="active"><span>1</span></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><span>...</span></li>
-                        <li><a href="#">30</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+
     </div>
 </section>
 

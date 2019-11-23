@@ -48,10 +48,10 @@
                         <li><a href="<?php echo base_url('index.php/Home/index');?>">Home</a></li>
                         <li><a href="<?php echo base_url('index.php/Home/Category');?>">Tour Category</a></li>
                         <li><a href="<?php echo base_url('index.php/Home/About');?>">About</a></li>
-                        <li><a href="<?php echo base_url('index.php/Home/Photo');?>">Galery</a></li>
+                        <li><a href="<?php echo base_url('index.php/Home/Photo');?>">Gallery</a></li>
                         <li><a href="<?php echo base_url('index.php/Home/Contact');?>">Contact</a></li>
-                          <li><a href="<?php echo base_url('index.php/Home/index');?>">My Profile</a></li>
-                        <li class="active"><a href="<?php echo base_url('index.php/Home/Reservation');?>">Reservation</a></li>
+                          <li><a href="<?php echo base_url('index.php/Home/Edit');?>">My Profile</a></li>
+                        <li class="active"><a href="<?php echo base_url('index.php/Home/login');?>">Login</a></li>
                       </ul>
                     </div>
                   </div>

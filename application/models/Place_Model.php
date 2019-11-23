@@ -18,7 +18,7 @@ class Place_Model extends CI_Model
 
    public function get_review_des($id_des)
    {
-       $this->db-where('business_place_id',$id_des);
+       $this->db->where('business_place_id',$id_des);
        $respond2 = $this->db->get('feedback_details');
        return $respond2->result();
    }

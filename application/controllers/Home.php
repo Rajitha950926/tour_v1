@@ -42,4 +42,19 @@ class Home extends CI_Controller {
     {
         $this->load->view('location_cat');
     }
+
+    public function Cart()
+    {
+        $this->load->view('Cart');
+    }
+
+    public function Weather()
+    {
+        $this->load->view('weather_condition');
+    }
+
+    public function Edit()
+    {
+        $this->load->view('user_profile');
+    }
 }

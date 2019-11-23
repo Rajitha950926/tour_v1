@@ -8,9 +8,9 @@
           <div class="col-md-10 text-center" data-aos="fade">
             <h1 class="heading mb-3">Register Here</h1>
             <ul class="custom-breadcrumbs mb-4">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="<?php base_url('index.php')?>">Home</a></li>
               <li>&bullet;</li>
-              <li>Reservation</li>
+              <li>Registration</li>
             </ul>
           </div>
         </div>
@@ -31,19 +31,6 @@
 
               <?php echo validation_errors()?>
               <?php echo form_open('Register_Controller/RegisterUser')?>
-
-                <div class="row">
-                    <div class="col-md-12 form-group">
-                        <label class="text-black font-weight-bold" for="email">First Name</label>
-                        <input type="text" id="fname" name="fname" required class="form-control ">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 form-group">
-                        <label class="text-black font-weight-bold" for="email">Last Name</label>
-                        <input type="text" id="lname" name="lname"  required class="form-control ">
-                    </div>
-                </div>
               <div class="row">
                 <div class="col-md-12 form-group">
                   <label class="text-black font-weight-bold" for="email">User Name</label>
@@ -75,7 +62,7 @@
               </div>
               <div class="row">
                 <div class="col-md-12 form-group">
-                  <p><a href="login.php">have Account? Login Here</a></p>
+                  <p><a href="<?php echo base_url('index.php/Home/login')?>">have Account? Login Here</a></p>
                 </div>
               </div>
             <?php echo form_close()?>
