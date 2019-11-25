@@ -27,26 +27,13 @@
 
         <div class="row ">
             <?php foreach ($query as $row):?>
-                <div class="item col-xs-4 col-lg-4">
-                    <div class="thumbnail card">
-                        <div class="img-event">
-                            <img class="group list-group-image img-fluid" src="http://placehold.it/400x250/000/fff" alt="" />
-                        </div>
-                        <div class="caption card-body">
-                            <h4 class="group card-title inner list-group-item-heading" va >
-                                <?php echo $row->place_name?></h4>
-                            <p class="group inner list-group-item-text">
-                                Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                                sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                            <div class="row">
-                                <div class="col-xs-12 col-md-6">
-                                    <p class="lead">
-                                        $21.000</p>
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <a href="<?php echo base_url('index.php/Place_Controller/P_Hotel2/'.$row->place_id);?>"class="btn btn-primary text-white py-2 mr-3" style="align:center">More Details..</a>
-                                </div>
-                            </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12 post mb-5" data-aos="fade-up" data-aos-delay="100">
+                    <div class="media media-custom d-block mb-4 h-100">
+                        <a href="#" class="mb-4 d-block"><img src="images/sample.jpg" alt="Image placeholder" class="img-fluid"></a>
+                        <div class="media-body">
+                            <h2 class="mt-0 mb-3"><a href="#"><?php echo $row->place_name ?></a></h2>
+                            <p><?php echo $row->description?></p>
+                            <a href="<?php echo base_url('index.php/Place_Controller/P_Hotel2/'.$row->place_id);?>"class="btn btn-primary text-white py-2 mr-3" style="align:center">More Details..</a>
                         </div>
                     </div>
                 </div>
