@@ -57,4 +57,9 @@ class Home extends CI_Controller {
     {
         $this->load->view('user_profile');
     }
+
+    public function Review()
+    {
+        $this->load->view('write_review');
+    }
 }
