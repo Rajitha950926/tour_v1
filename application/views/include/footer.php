@@ -58,7 +58,7 @@
 <script src="<?php echo base_url(); ?>js/owl.carousel.min.js"></script>
 <script src="<?php echo base_url(); ?>js/jquery.stellar.min.js"></script>
 <script src="<?php echo base_url(); ?>js/jquery.fancybox.min.js"></script>
-<script src="<?php echo base_url(); ?>https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
 
 <script src="<?php echo base_url(); ?>js/aos.js"></script>
 

@@ -5,9 +5,4 @@ class Edit_User_Controller extends CI_Controller
   {
       $this->load->view('user_profile');
   }
-
-  public function Update()
-  {
-      $this->load->view('user_profile');
-  }
 }

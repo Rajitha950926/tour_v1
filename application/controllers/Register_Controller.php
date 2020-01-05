@@ -12,7 +12,7 @@ class Register_Controller extends CI_Controller
 
       if ($this->form_validation->run()==false){
             $this->load->view('register.php');
-           echo validation_errors();
+
       }else{
           $this->load->model('Register_Model');
           $this->Register_Model->insert_data();
