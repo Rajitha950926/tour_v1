@@ -7,7 +7,7 @@
                 <ul class="custom-breadcrumbs mb-4">
                     <li><a href="<?php echo base_url('index.php');?>">Home</a></li>
                     <li>&bullet;</li>
-                    <li>Rooms</li>
+                    <li>Cart</li>
                 </ul>
             </div>
         </div>
@@ -29,7 +29,7 @@
                 <span class="d-block mb-4"><span class="display-4 text-primary">Visit</span> <span class="text-uppercase letter-spacing-2">& Enjoy</span> </span>
                 <h2 class="mb-4">Photos</h2>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                <p><a href="<?php echo base_url('index.php/Home/Cart');?>" class="btn btn-primary text-white">Book Now</a></p>
+                <p><a href="<?php echo base_url('index.php/Home/Reservation');?>" class="btn btn-primary text-white">Book Now</a></p>
                 <p><a href="<?php echo base_url('index.php/Home/Cart');?>" class="btn btn-primary text-white">Remove</a></p>
             </div>
         </div>

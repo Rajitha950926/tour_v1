@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8783ea73-a729-47c8-a342-777d95fa1b7c" name="Default Changelist" comment="lakshan">
-      <change afterPath="$PROJECT_DIR$/application/views/cart.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/controllers/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/L_Details_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/L_Details_Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Location_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Location_Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Place_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Place_Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Register_Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Register_Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/models/Location_Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/Location_Model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/models/Place_Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/Place_Model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/models/Register_Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/Register_Model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/category_place_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/category_place_info.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/views/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat/adventure.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat/adventure.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat/ancient.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat/ancient.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat/hiking.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat/hiking.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat/natural.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat/natural.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat/surfing.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat/surfing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_cat/wild_safari.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_cat/wild_safari.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/location_details.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/location_details.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place_cat/bangalow.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_cat/bangalow.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place_cat/guest_house.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_cat/guest_house.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place_cat/hotel.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_cat/hotel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place_cat/kabana.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_cat/kabana.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place_cat/other.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_cat/other.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/place_cat/restaurants.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_cat/restaurants.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/views/place_details.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/place_details.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/reservation.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/reservation.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +32,13 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -75,6 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/application/views" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -127,7 +104,9 @@
       <workItem from="1574350834955" duration="5081000" />
       <workItem from="1574404825440" duration="8648000" />
       <workItem from="1574430835118" duration="11570000" />
-      <workItem from="1574478759884" duration="1265000" />
+      <workItem from="1574478759884" duration="17516000" />
+      <workItem from="1574680479378" duration="4013000" />
+      <workItem from="1575281758782" duration="5310000" />
     </task>
     <servers />
   </component>

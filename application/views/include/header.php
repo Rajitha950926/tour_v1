@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/jquery.timepicker.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/fancybox.min.css">
-
+    <link rel="stylesheet" href="<?php echo base_url(); ?>css/file_input.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>fonts/ionicons/css/ionicons.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>fonts/fontawesome/css/font-awesome.min.css">
 

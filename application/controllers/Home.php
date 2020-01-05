@@ -18,9 +18,9 @@ class Home extends CI_Controller {
         $this->load->view('register');
     }
 
-    public function Reservation()
+    public function Reservation($place_name)
     {
-        $this->load->view('reservation');
+        $this->load->view('reservation',$place_name);
     }
 
     public function Photo()
@@ -56,5 +56,10 @@ class Home extends CI_Controller {
     public function Edit()
     {
         $this->load->view('user_profile');
+    }
+
+    public function Review()
+    {
+        $this->load->view('write_review');
     }
 }
